@@ -1,5 +1,6 @@
 #JD
-cron "0 35 2 1,10,20 * ?" script-path=https://gitee.com/qq34347476/quantumult-x/raw/master/get_share_jd_code.js, tag=获取并提交助力码, enabled=false
+cron "20 13 * * 6" script-path=https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_get_share_code.js, tag=获取互助码, enabled=false
+cron "2 0 * * *" script-path=https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_cash.js,tag=签到领现金
 cron "15 1 * * *" script-path=https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东签到
 cron "1 7 * * *" script-path=https://raw.githubusercontent.com/shylocks/Loon/main/jd_mh.js, tag=盲盒抽京豆
 cron "11 9 * * *" script-path=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js, tag=京东排行榜
@@ -9,7 +10,6 @@ cron "5 3 * * *" script-path=https://raw.githubusercontent.com/chavyleung/script
 cron "1 8,9 14-31/1 1 *" script-path=https://raw.githubusercontent.com/shylocks/Loon/main/jd_bj.js,tag=宝洁美发屋
 cron "10 7 * * *" script-path=https://raw.githubusercontent.com/shylocks/Loon/main/jd_ms.js,tag=京东秒秒币
 cron "30 * * * *" script-path=https://raw.githubusercontent.com/shylocks/Loon/main/jd_gyec.js,tag=工业品爱消除
-cron "20 13 * * 6" script-path=https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_get_share_code.js, tag=获取互助码, enabled=false
 cron "0 8 * * *" script-path=https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_nian.js,tag=京东炸年兽
 
 #京喜
