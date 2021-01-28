@@ -59,6 +59,10 @@
     "55 23 * * * https://raw.githubusercontent.com/utterliar1/scripts/main/jd_unsubscribe.js, tag=取关京东店铺商品, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     "5 7 * * * https://raw.githubusercontent.com/utterliar1/scripts/main/jd_xg.js, tag=小鸽有礼, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/master/Icon/shylocks/jd_xg.jpg, enabled=true",
     "5 0 * * * https://raw.githubusercontent.com/utterliar1/scripts/main/jx_sign.js, tag=京喜签到, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
-    "15 17 * * * https://raw.githubusercontent.com/utterliar1/scripts/main/backUp/xmSports.js, tag=小米运动, img-url=https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png, enabled=true"
+    "12 0 * * * https://raw.githubusercontent.com/utterliar1/scripts/main/wps/wps.js, tag=WPS, img-url=https://raw.githubusercontent.com/Orz-3/task/master/wps.png,enabled=true",
+    "6 0 * * * https://raw.githubusercontent.com/utterliar1/scripts/main/ximalaya/ximalaya.js, tag=喜马拉雅, img-url=https://raw.githubusercontent.com/Orz-3/task/master/ximalaya.png,enabled=true",
+    "3 0 * * * https://raw.githubusercontent.com/utterliar1/scripts/main/elem/elemCheckIn.js, tag=饿了么-打卡领红包, img-url=https://raw.githubusercontent.com/Orz-3/task/master/elem.png,enabled=true",
+    "0 9 * * * https://raw.githubusercontent.com/utterliar1/scripts/main/JD-DailyBonus/JD_DailyBonus.js, tag=京东, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
+    "# 11 0 * * * https://raw.githubusercontent.com/utterliar1/scripts/main/jddj/jddj.js, tag=京东到家, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jddj.png,enabled=true"
   ]
 }
