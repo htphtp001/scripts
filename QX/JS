@@ -4,7 +4,7 @@ hostname = vip1.kuwo.cn, *.xiaoxiao*.com, api.bjxkhc.com, p.du.163.com, getuseri
 ^https?:\/\/musicpay\.kuwo\.cn\/music\.pay\?uid\=\d+ url 302 http://musicpay.kuwo.cn/music.pay?uid=1
 
 #WPS
-^https?:\/\/account\.wps\.cn\/api\/users url script-response-body https://raw.githubusercontent.com/eHpo1/Surge/master/Script/wps.js
+^https?:\/\/account\.wps\.cn\/api\/users url script-response-body https://github.com/utterliar1/scripts/raw/main/JS/Wps.js
 
 # 小小影视Vip (By Meeta)
 https:\/\/.*\.xiaoxiao.*\.com\/(vod\/reqplay\/|ucp/index|getGlobalData) url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/xxys.js
